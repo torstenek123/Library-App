@@ -1,0 +1,11 @@
+book 1,author 1,lender 1,True
+book 2,author 2,,False
+book 3,author 3,,False
+book 4,author 4,,False
+book 5,author 5,,False
+book 6,author 6,,False
+book 7,author 7,,False
+book 8,author 8,,False
+book 9,author 9,,False
+book 10,author 10,,False
+Write title here,Write author here,,False
